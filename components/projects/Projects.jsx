@@ -3,14 +3,11 @@ import '../projects/projects.css';
 import dailycard from '../../src/img/dailycard.png'
 import highness from '../../src/img/highness.png'
 import dashboard from '../../src/img/Dashboard.png'
-import sahl from '../../src/img/sahl.png'
 import education from '../../src/img/edu.png'
-import education2 from '../../src/img/edu2.png'
-import education3 from '../../src/img/edu3.png'
-import education4 from '../../src/img/edu4.png'
-import education5 from '../../src/img/edu5.png'
+
+import nemo from '../../src/img/nemo.png'
 import education6 from '../../src/img/re3aya.png'
-import education7 from '../../src/img/dbabk.png'
+import education7 from '../../src/img/hagatna.png'
 import education8 from '../../src/img/kora-ticket.png'
 import education9 from '../../src/img/elmohed.png'
 export const Projects = () => {
@@ -43,13 +40,13 @@ export const Projects = () => {
                 <img src="" alt="" srcSet={education9} />
             </div>
                       </a>
-                          <a href="https://koraticket.com/" target='_blank'>
+                          <a href="https://koraticket.com/ar" target='_blank'>
             <div class="card kora-ticket">
                 <img src="" alt="" srcSet={education8} />
             </div>
                       </a>
-                        <a href="https://dababk.com/" target='_blank'>
-            <div class="card dbabk">
+                        <a href="https://7ajatna.com/ar" target='_blank'>
+            <div class="card hajatna">
                                 <img src="" alt="" srcSet={education7} />
             </div>
                       </a>
@@ -69,9 +66,9 @@ export const Projects = () => {
             </div>
                 </a>
                
-                        <a href="https://sahl-app.vercel.app/" target='_blank'>
+                        <a href="https://nemuchild.com/ar" target='_blank'>
             <div class="card four">
-                                <img src="" alt="" srcSet={sahl} />
+                                <img src="" alt="" srcSet={nemo} />
             </div>
                 </a>
                      

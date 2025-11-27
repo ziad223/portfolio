@@ -29,8 +29,9 @@ export const About = () => {
     :    
         <div className='about'>
             <h1>About ME <span></span></h1>
-            <p>I'm a Frontend Developer with over 3 years of experience specializing in React.js and Next.js. My passion for building user-friendly, responsive web applications drives my work. I thrive in collaborative environments and enjoy tackling challenges that push the boundaries of front-end development.
-                💻🌐</p>
+            <p>
+             I’m a Frontend Developer with over 3 years of experience specializing in React.js and Next.js. I’m passionate about building high-performance, scalable web applications with modern architectures such as SSR, SSG, and server components. I have strong experience with Tailwind CSS, crafting clean, responsive, and accessible user interfaces. I enjoy solving complex front-end challenges, optimizing performance, and collaborating with teams to deliver exceptional digital experiences.
+            </p>
             <h1>What i Do !<span></span></h1>
             <div className='skill'>
                 <div className='skills one'>

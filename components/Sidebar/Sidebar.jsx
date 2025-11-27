@@ -4,7 +4,7 @@ import '../Sidebar/sidebar.css'
 import { MdEmail } from "react-icons/md";
 import { FaLocationDot } from "react-icons/fa6";
 import img_sidebar from '../../src/img/about.png'
-import cv from '../../src/img/ziad cv.pdf'
+import cv from '../../src/img/ziad-cv.pdf'
 export const Sidebar = () => {
     return (
         <div className='sidebar'>
@@ -64,8 +64,10 @@ export const Sidebar = () => {
                         <h5>Zagazig - Egypt </h5>
                     </div>
                 </div>
-          <a href={cv} target='_blank' className='buttonn'> Download my Resume
+          <a href={cv} style={{padding : "0px 10px"}} target='_blank' className='buttonn'> Download my Resume
 
+
+   
                 </a>
             </div>
 

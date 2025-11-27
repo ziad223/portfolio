@@ -132,8 +132,8 @@
           align-items: center;
           text-align: center;
         }
-                    .projects .dbabk:hover:after {
-                      content: "Dbabk   ";
+                    .projects .hajatna:hover:after {
+                      content: "hajatna   ";
                       display: flex;
                       justify-content: center;
                       align-items: center;
@@ -156,7 +156,7 @@
 
 
   .projects .four:hover:after {
-    content: "Sahl App";
+    content: "Nemo ";
     display: flex;
     justify-content: center;
     align-items: center;

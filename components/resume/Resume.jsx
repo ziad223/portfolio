@@ -151,6 +151,11 @@ export const Resume = () => {
                 <h4>Admixy</h4>
                 <h5>Frontend Developer Next js</h5>
               </div>
+              <div className="edu">
+                  <p>December 2024 - December 2025</p>
+                <h4>Almasader</h4>
+                <h5>Frontend Developer Next js</h5>
+              </div>
             </div>
           </div>
           {/* skills */}
